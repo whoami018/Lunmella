@@ -1,0 +1,5 @@
+Initial release of Lunmella (v1.0.0):
+- Download public Facebook and Instagram videos and reels
+- Select video resolution or audio-only (M4A) extraction
+- Share links directly to Lunmella from other apps
+- Built-in Settings dialog to update the yt-dlp download engine

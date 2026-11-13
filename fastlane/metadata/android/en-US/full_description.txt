@@ -1,0 +1,15 @@
+Lunmella is an open-source Android application for downloading public videos, reels, and audio from Facebook and Instagram.
+
+Features:
+- Paste links from your clipboard or share links directly to Lunmella from other apps
+- Inspect available video resolutions (Auto HD, 1080p, 720p, 480p, and source formats)
+- Extract audio-only tracks in M4A format
+- Automatic video and audio stream merging via FFmpeg
+- Real-time download progress, ETA display, and one-tap cancellation
+- Saves media directly to your device Downloads folder and opens files with your preferred player
+- In-app Settings option to update the bundled yt-dlp extraction engine
+
+Notes:
+- Only works with publicly accessible links (does not bypass login or private content restrictions)
+- Powered by yt-dlp, FFmpeg, and youtubedl-android
+- Free and open-source software (GPL-3.0-only) with no ads or tracking

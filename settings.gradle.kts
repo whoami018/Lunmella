@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FBInstaDownloader"
+rootProject.name = "Lunmella"
 include(":app")

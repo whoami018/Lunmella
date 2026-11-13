@@ -1,4 +1,4 @@
-package com.fbinstadownloader.app;
+package io.github.whoami018.lunmella;
 
 import android.Manifest;
 import android.app.AlertDialog;
